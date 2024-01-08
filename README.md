@@ -6,17 +6,18 @@
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-- 🔭 I’m currently working on **Open Source.**
+- 🎯 Aspiring Software Developer.
 
-- 🌱 I’m currently learning **Back-end.**
+- 🌱 Now I'm diving into the world of **Back-end.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/itsneha15](https://github.com/itsneha15)
 
-- 💬 Ask me about **React , Tailwind CSS , Bootstrap .**
+- 💬 Ask me anything about **React , Tailwind CSS , Bootstrap .**
+- 🔭 I’m currently working on **Open Source.**
 
-- 📫 How to reach me **nehasinha123987@gmail.com**
+- 📫 U can reach me through - **nehasinha123987@gmail.com**
 
-- ⚡ Fun fact **Savage anytime !**
+- ⚡ Fun fact - **Savage anytime ! 🧑🏻‍💻**
 
 <br>
 
@@ -41,3 +42,7 @@
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsneha15&" alt="itsneha15" /></p>
+<br><br>
+<p>Wanna explore my projects ? 👀</p>
+<p>Sure !!!! 🚀 </p>
+<p> Scroll Down 👇 </p>
