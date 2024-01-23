@@ -1,4 +1,4 @@
-![logo](https://github.com/itsneha15/itsneha15/blob/main/banner.jpg)
+
 <h1 align="center">Hey , I'm Neha Sinha !</h1>
 <h3 align="center">A passionate frontend developer from India .</h3><br>
 
