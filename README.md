@@ -12,7 +12,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/itsneha15](https://github.com/itsneha15)
 
-- 💬 Ask me anything about **React , Tailwind CSS .**
 - 🔭 I’m currently working on **Open Source.**
 
 - 📫 U can reach me through - **nehasinha123987@gmail.com**
