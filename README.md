@@ -42,6 +42,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsneha15&" alt="itsneha15" /></p>
 <br><br>
+
+[![nsrs-78's GitHub | Stats](https://stats.quine.sh/nsrs-78/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=nsrs-78)
 <p>Wanna explore my projects ? 👀</p>
 <p>Sure !!!! 🚀 </p>
 <p> Scroll Down 👇 </p>
