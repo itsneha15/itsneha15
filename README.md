@@ -44,6 +44,9 @@
 <br><br>
 
 [![nsrs-78's GitHub | Stats](https://stats.quine.sh/nsrs-78/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=nsrs-78)
+
+[![nsrs-78's GitHub | Dependencies](https://stats.quine.sh/nsrs-78/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=nsrs-78)
+
 <p>Wanna explore my projects ? 👀</p>
 <p>Sure !!!! 🚀 </p>
 <p> Scroll Down 👇 </p>
