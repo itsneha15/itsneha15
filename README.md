@@ -8,11 +8,9 @@
 
 - 🎯 Aspiring Software Developer.
 
-- 🌱 Now I'm diving into the world of **Back-end.**
+- 🌱 Now I'm diving into the world of **Data Science , AI , ML.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/itsneha15](https://github.com/itsneha15)
-
-- 🔭 I’m currently working on **Open Source.**
 
 - 📫 U can reach me through - **nehasinha123987@gmail.com**
 
@@ -27,9 +25,6 @@
 <p align="left">
 <a href="https://twitter.com/nehasinha0015" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nehasinha0015" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/neha-sinha-237b9b258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/neha-sinha-237b9b258" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100078988824608&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100078988824608&mibextid=zbwkwl" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/i._._neha?igsh=mtvpazhkotuzcgs5ea==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/i._._neha?igsh=mtvpazhkotuzcgs5ea==" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/nehasinha123987" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/nehasinha123987" height="30" width="40" /></a>
 <a href="https://discord.gg/its_neha_3456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="its_neha_3456" height="30" width="40" /></a>
 </p>
 <br>
